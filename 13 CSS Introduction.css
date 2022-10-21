@@ -1,0 +1,9 @@
+p {
+    color: red;
+}
+
+header,
+p.intro {
+    background-color: red;
+    border-radius: 3px;
+}
